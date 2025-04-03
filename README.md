@@ -1,4 +1,5 @@
 # instagram-auto-report
+A powerful tool for reporting instagram account.
 
 Telegram: https://t.me/igreportt
 
